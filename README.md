@@ -1,2 +1,4 @@
 # unity_project
-This is my prototype Unity project. A Sci-Fi thriller!
+These are just a few scripts in the science fiction thriller RPG I am developing.
+
+This is my prototype Unity project.
